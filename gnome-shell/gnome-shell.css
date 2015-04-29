@@ -183,11 +183,16 @@ stage {
 
 .panel-button:hover {
     background:#13b1d5;
+	border-image: url("assets/panel-button-border-hover.svg") 2 2 2 2;
+/* and here */
 }
+
 
 .panel-button:active,.panel-button:overview,.panel-button:focus,.panel-button:checked {
     background:#13b1d5;
     box-shadow:none;
+/* add image here */
+	border-image: url("assets/panel-button-border-hover.svg") 2 2 2 2;
 }
 
 .app-menu-icon {
@@ -1014,3 +1019,4 @@ border-radius:0 3px 3px 0;
 .candidate-page-button-icon {
 icon-size:1em;
 }
+
