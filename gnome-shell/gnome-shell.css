@@ -853,7 +853,7 @@ border-top:2px solid #13b1d5;
 }
 
 .legacy-tray-icon-box {
-spacing:10px;
+spacing:12px;
 }
 
 .legacy-tray-icon-box:ltr {
@@ -1014,5 +1014,3 @@ border-radius:0 3px 3px 0;
 .candidate-page-button-icon {
 icon-size:1em;
 }
-
-@import url "custom.css";
