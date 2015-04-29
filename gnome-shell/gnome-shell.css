@@ -509,7 +509,7 @@ font-size:9.5pt;
 }
 
 .calendar-day-base:hover,.calendar-day-base:focus {
-background-color:#37B9A5; /*originally #13b1d5 (blue)*/
+background-color:#13b1d5; 
 color:#fff;
 }
 
