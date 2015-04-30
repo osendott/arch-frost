@@ -4,7 +4,7 @@
             if anyone experiences any problems, please raise the issue here in the repo, and describe the problem
             (screenshot it if possible) and let me know what hardware/distro/display manager you're using.
             Thank you! -William
-##/NOTICE##  
+  
           
 
 ## PopEvo Gnome-Shell Theme
