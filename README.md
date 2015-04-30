@@ -1,10 +1,10 @@
-**<NOTICE>** I have been having trouble with this theme on my other computer. When I mouse over any icon on the
+##NOTICE## I have been having trouble with this theme on my other computer. When I mouse over any icon on the
             top panel, the background turns black, and/or a dark blue bar appears under the icon. Also, some icons 
             will be distorted or cropped. It looks beautiful on this computer, so it could just be my other laptop.
             if anyone experiences any problems, please raise the issue here in the repo, and describe the problem
             (screenshot it if possible) and let me know what hardware/distro/display manager you're using.
             Thank you! -William
-**</NOTICE>**  
+##/NOTICE##  
           
 
 ## PopEvo Gnome-Shell Theme
