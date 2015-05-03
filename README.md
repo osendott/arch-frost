@@ -1,8 +1,8 @@
-## Frost Gnome-shell theme
+## Arch-Frost Theme
 
-Gnome Shell to match the Numix-Frost theme 
+Numix-Frost theme customized with Arch in mind.
 
-This is work in progress, based on the original EvoPop-Shell.
+This is work in progress, shell-them based from the original EvoPop-Shell.
 I am using a compiled (04-29-15) version, formatted manually and then edited. 
 
 If you would like to grab the original source files, head on over to:
@@ -15,6 +15,9 @@ Also, please check out the EvoPop GTK theme and Icons:
 
 * https://github.com/solus-project/evopop-icon-theme
 * https://github.com/solus-project/evopop-gtk-theme
+
+GTK theme based from Numix-Frost theme, original sources in AUR
+or available upon request.
 
 Comments/Commits are always welcome!
 
