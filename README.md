@@ -4,7 +4,7 @@ http://osendott.github.io/arch-frost/
 
 Numix-Frost theme customized with Arch in mind, with custom gnome-shell theme to match.
 
-If you are using an arch-based distro, soon, you will be able to install this theme from the AUR
+If you are using an arch-based distro, soon you will be able to install this theme from the AUR
 'yaourt arch-frost' 
 
 This is a work in progress. The light version is 85-90% complete, the dark version
