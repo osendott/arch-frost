@@ -14,7 +14,7 @@ stage {
 }
 
 .cinnamon-link:hover {
-    color: #1a80b6;
+    color: #1793d0;
 }
 
 .label-shadow {
@@ -55,8 +55,8 @@ StScrollBar StButton#hhandle {
 
 StScrollBar StButton#hhandle:hover,
 StScrollBar StButton#vhandle:hover {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
 	padding: 4px;
 }
 
@@ -105,8 +105,8 @@ StScrollBar StButton#vhandle:hover {
 .notification-button:hover,
 .notification-icon-button:hover, .hotplug-notification-item:hover,
 .hotplug-resident-eject-button:hover, .modal-dialog-button:hover {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
@@ -114,7 +114,7 @@ StScrollBar StButton#vhandle:hover {
 .notification-icon-button:focus, .hotplug-notification-item:focus,
 .modal-dialog-button:focus {
     background-color: #3d3d3d;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
@@ -122,7 +122,7 @@ StScrollBar StButton#vhandle:hover {
 .hotplug-notification-item:active, .hotplug-resident-eject-button:active,
 .modal-dialog-button:active, .modal-dialog-button:pressed {
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
@@ -157,7 +157,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .popup-submenu-menu-item:open {
@@ -239,8 +239,8 @@ StScrollBar StButton#vhandle:hover {
     -slider-height: 4px;
     -slider-background-color: rgba(0,0,0,0);
     -slider-border-color: rgba(0,0,0,0);
-    -slider-active-background-color: #1a80b6;
-    -slider-active-border-color: #1a80b6;
+    -slider-active-background-color: #1793d0;
+    -slider-active-border-color: #1793d0;
     -slider-border-width: 1px;
     -slider-handle-radius: 6px;
     color: #dcdcdc;
@@ -421,7 +421,7 @@ StScrollBar StButton#vhandle:hover {
 
 .window-caption#selected {
   	background-color: #2d2d2d;
-  	border: 1px solid #1a80b6;
+  	border: 1px solid #1793d0;
   	color: #dcdcdc;
 	font-weight: bold;
   	spacing: 25px;
@@ -680,8 +680,8 @@ StScrollBar StButton#vhandle:hover {
 }
 
 #LookingGlassDialog .notebook-tab:hover {
-  	background-color: #1a80b6;
-  	border: 1px solid #1a80b6;
+  	background-color: #1793d0;
+  	border: 1px solid #1793d0;
   	border-radius: 2px;
   	color: #dcdcdc;
 }
@@ -719,7 +719,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .lg-obj-inspector-title {
@@ -737,7 +737,7 @@ StScrollBar StButton#vhandle:hover {
 .lg-obj-inspector-button:hover {
   	border: 1px solid #484848;
   	border-radius: 2px;
-  	color: #1a80b6;
+  	color: #1793d0;
 }
 
 .lg-dialog .cinnamon-link {
@@ -748,7 +748,7 @@ StScrollBar StButton#vhandle:hover {
 
 .lg-dialog .cinnamon-link:hover
 {
-  	color: #1a80b6;
+  	color: #1793d0;
 }
 
 #LookingGlassDialog StBoxLayout#EvalBox
@@ -884,8 +884,8 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .calendar-today {
-	background-color: #1a80b6;
-	border: 1px solid #1a80b6;
+	background-color: #1793d0;
+	border: 1px solid #1793d0;
 	border-radius: 2px;
 }
 
@@ -1044,7 +1044,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 #notification StEntry:focus {
@@ -1059,7 +1059,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 /* ===================================================================
@@ -1113,7 +1113,7 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .switcher-list .item-box:selected {
-    background-color: #1a80b6;
+    background-color: #1793d0;
     border-radius: 2px;
 }
 
@@ -1189,7 +1189,7 @@ StScrollBar StButton#vhandle:hover {
     font-size: 10pt;
     color: #dcdcdc;
     background-color: #3d3d3d;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
     margin-left: 10px;
     margin-right: 10px;
@@ -1197,15 +1197,15 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .modal-dialog-button:hover {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
 .modal-dialog-button:active,
 .modal-dialog-button:checked {
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
@@ -1243,7 +1243,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .run-dialog-completion-box { 
@@ -1507,7 +1507,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .polkit-dialog-password-entry:focus {
@@ -1522,7 +1522,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .polkit-dialog-password-entry .capslock-warning {
@@ -1606,14 +1606,14 @@ StScrollBar StButton#vhandle:hover {
 
 .keyboard-key:checked,
 .keyboard-key:hover {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
 .keyboard-key:active {
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px
 }
 
@@ -1657,7 +1657,7 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .menu-favorites-button:hover {
-	background-color: #1a80b6;
+	background-color: #1793d0;
 	box-shadow: inset 0px 0px 1px 1px #17709f;
 	border-radius: 2px;
 }
@@ -1703,7 +1703,7 @@ StScrollBar StButton#vhandle:hover {
     padding-right: 7px;
     padding-bottom: 7px;
     color: #dcdcdc;
-	background-color: #1a80b6;
+	background-color: #1793d0;
 	box-shadow: inset 0px 0px 1px 1px #17709f;
     border-radius: 2px;
 }
@@ -1738,7 +1738,7 @@ StScrollBar StButton#vhandle:hover {
     padding-right: 7px;
     padding-bottom: 7px; 
     color: #dcdcdc;
-	background-color: #1a80b6;
+	background-color: #1793d0;
 	box-shadow: inset 0px 0px 1px 1px #17709f;
 	border-radius: 2px;
 }
@@ -1790,7 +1790,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 #menu-search-entry:focus,
@@ -1881,14 +1881,14 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .sound-button:hover {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
 .sound-button:active {
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
@@ -2039,7 +2039,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .panel-launcher-add-dialog-entry:focus,
@@ -2055,7 +2055,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .panel-launcher-add-dialog-entry:hover {
@@ -2070,7 +2070,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 
 .panel-launcher-add-dialog-entry:focus {
@@ -2085,7 +2085,7 @@ StScrollBar StButton#vhandle:hover {
     width: 250px;
     height: 16px; 
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
 }
 /* ===================================================================
  * Overview corner
@@ -2157,7 +2157,7 @@ StScrollBar StButton#vhandle:hover {
 	selected-color: #dcdcdc;
 	caret-color: #dcdcdc;
 	caret-size: 1px;
-	selection-background-color: #1a80b6;
+	selection-background-color: #1793d0;
 	border-radius: 2px;
 	height: 15px;	
 	text-align: center;
@@ -2172,7 +2172,7 @@ StScrollBar StButton#vhandle:hover {
 	selected-color: #dcdcdc;
 	caret-color: #dcdcdc;
 	caret-size: 1px;
-	selection-background-color: #1a80b6;
+	selection-background-color: #1793d0;
 	border-radius: 2px;
 	height: 15px;	
 	text-align: center;
@@ -2187,7 +2187,7 @@ StScrollBar StButton#vhandle:hover {
 	selected-color: #dcdcdc;
 	caret-color: #dcdcdc;
 	caret-size: 1px;
-	selection-background-color: #1a80b6;
+	selection-background-color: #1793d0;
 	border-radius: 2px;
 	height: 15px;	
 	text-align: center;
@@ -2202,7 +2202,7 @@ StScrollBar StButton#vhandle:hover {
 	selected-color: #dcdcdc;
 	caret-color: #dcdcdc;
 	caret-size: 1px;
-	selection-background-color: #1a80b6;
+	selection-background-color: #1793d0;
 	border-radius: 2px;
 	height: 15px;	
 	text-align: center;
@@ -2293,7 +2293,7 @@ StScrollBar StButton#vhandle:hover {
     background-gradient-direction: vertical;
     background-gradient-start: rgba(255, 255, 255, 0.0);
     background-gradient-end: rgba(255, 255, 255, 0.0);
-    color: #1a80b6;
+    color: #1793d0;
 }
 
 .weather-current-summarybox {
@@ -2334,7 +2334,7 @@ StScrollBar StButton#vhandle:hover {
     padding: 0;
     padding-right: 5px;
     spacing: 1px;
-    color: #1a80b6;
+    color: #1793d0;
     font-size: 9pt;
 }
 
@@ -2351,7 +2351,7 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .weather-forecast-day {
-  	color: #1a80b6;
+  	color: #1793d0;
   	font-size: 8pt;
 }
 
@@ -2384,15 +2384,15 @@ StScrollBar StButton#vhandle:hover {
 }
 
 .soundbox-buttonMenu:hover {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
 .soundbox-buttonMenu:active,
 .soundbox-buttonMenu:pressed {
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
@@ -2440,8 +2440,8 @@ soundbox-appTitle {
     min-width: 15em;
     -slider-background-color: rgba(0,0,0,0);
     -slider-border-color: rgba(0,0,0,0);
-    -slider-active-background-color: #1a80b6;
-    -slider-active-border-color: #1a80b6;
+    -slider-active-background-color: #1793d0;
+    -slider-active-border-color: #1793d0;
     -slider-height: 4px;
     -slider-border-width: 1px;
     -slider-border-color: rgba(0,0,0,0); 
@@ -2515,15 +2515,15 @@ soundbox-appTitle {
 }
 
 .soundbox-soundButton:hover {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
 .soundbox-soundButton:active,
 .soundbox-soundButton:pressed {
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 }
 
@@ -2606,8 +2606,8 @@ soundbox-appTitle {
  .calc-button:hover {
     height: 40px;
     width: 50px;
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
     margin: 20px;
 }
@@ -2616,7 +2616,7 @@ soundbox-appTitle {
     height: 40px;
     width: 50px;
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
     margin: 20px;
 }
@@ -2643,7 +2643,7 @@ soundbox-appTitle {
     caret-color: #dcdcdc;
     caret-size: 1px;
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
     padding: 10px;
 }
 
@@ -2658,7 +2658,7 @@ soundbox-appTitle {
     caret-color: #dcdcdc;
     caret-size: 1px;
     transition-duration: 300;
-    selection-background-color: #1a80b6;
+    selection-background-color: #1793d0;
     padding: 10px;
 }
 
@@ -2837,8 +2837,8 @@ The colour parameters are red, green, blue, and transparency or a name */
 
 .table-element:hover, .table-element:activate
 {
-    background-color: #1a80b6;
-	border: 1px solid #1a80b6;
+    background-color: #1793d0;
+	border: 1px solid #1793d0;
 	border-radius: 2px;
 }
 
@@ -2897,7 +2897,7 @@ The colour parameters are red, green, blue, and transparency or a name */
 .settings-button:activate
 {
     background-color: #17709f;
-    border: 1px solid #1a80b6;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 	color: #dcdcdc;
     min-width:40px;
@@ -2906,8 +2906,8 @@ The colour parameters are red, green, blue, and transparency or a name */
 
 .settings-button:activate:hover
 {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 	color: #dcdcdc;
     min-width:40px;
@@ -2916,8 +2916,8 @@ The colour parameters are red, green, blue, and transparency or a name */
 
 .settings-button:hover
 {
-    background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+    background-color: #1793d0;
+    border: 1px solid #1793d0;
     border-radius: 2px;
 	color: #dcdcdc;
     min-width:40px;
@@ -3051,8 +3051,8 @@ The colour parameters are red, green, blue, and transparency or a name */
 }
 
 #sticky-scrollview StScrollBar StButton#vhandle:hover{
-	background-color: #1a80b6;
-    border: 1px solid #1a80b6;
+	background-color: #1793d0;
+    border: 1px solid #1793d0;
 }
 
 .sticky-button {
@@ -3066,7 +3066,7 @@ The colour parameters are red, green, blue, and transparency or a name */
 }
 
 .sticky-button-selected {
-	background-color: #1a80b6;
+	background-color: #1793d0;
 	border: 1px solid transparent;
 	box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0);
 	border-radius: 16px;
@@ -3153,7 +3153,7 @@ The colour parameters are red, green, blue, and transparency or a name */
 	selected-color: #dcdcdc;
 	caret-color: #dcdcdc;
 	caret-size: 1px;
-	selection-background-color: #1a80b6;
+	selection-background-color: #1793d0;
 	font-weight: normal;
 }
 /* ===================================================================
