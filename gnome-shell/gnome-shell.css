@@ -182,7 +182,7 @@ stage {
 }
 
 .panel-button:hover {
-    background:#13b1d5;
+  background:#13b1d5;
 	border-image: url("assets/panel-button-border-hover.svg") 2 2 2 2;
 /* and here */
 }
@@ -190,7 +190,7 @@ stage {
 
 .panel-button:active,.panel-button:overview,.panel-button:focus,.panel-button:checked {
     background:#13b1d5;
-    box-shadow:none;
+    box-shadow:0 0 1px rgba(19,177,213,0.2);
 /* add image here */
 	border-image: url("assets/panel-button-border-hover.svg") 2 2 2 2;
 }
