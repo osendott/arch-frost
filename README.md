@@ -1,6 +1,6 @@
 ## Arch-Frost Theme
 
-Numix-Frost theme customized with Arch in mind.
+Numix-Frost theme customized with Arch in mind, with custom gnome-shell theme to match.
 
 This is work in progress, shell-them based from the original EvoPop-Shell.
 I am using a compiled (04-29-15) version, formatted manually and then edited. 
