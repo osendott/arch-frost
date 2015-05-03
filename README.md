@@ -14,6 +14,7 @@ Comments/Commits are always welcome! I can be reached at e-mail address located 
 My PGP Fingerprint is also located below, please use it, or run the risk of your e-mail going unanswered. (sorry)
 
 -William
+
 william.osendott[at]gmail[dot]com
 
 5F5B 6E01 9BCE 7949 89B6 895D F1A7 9EB1 E111 1229
