@@ -2,7 +2,7 @@
 /* hex #1793d0 = arch-blue
  RGB 23 147 208 */
 
-stage { 
+stage {
     font-family:Cantarel,Ubuntu,Sans-Serif;
     font-size:13px;
 }
@@ -35,7 +35,7 @@ stage {
 
 .button:active {
     color:#e6e8eb;
-    border-color:#2c9484;
+    border-color:#ccd0d6;
     background-color:##1793d0;
     text-shadow:none;
     icon-shadow:none;
@@ -43,7 +43,7 @@ stage {
 
 .button:hover {
     background:#1793d0;
-    border-color:#0f8eaa;
+    border-color:#ccd0d6;
 }
 
 .popup-menu {
@@ -90,7 +90,7 @@ stage {
     background-color:#e6e8eb;
     color:#1793d0;
 }
- 
+
 .popup-menu .popup-menu-item:insensitive {
     color:#81868e;
 }
@@ -147,9 +147,9 @@ stage {
 }
 
 .workspace-thumbnail-indicator {
-    border:5px solid #a1ce4b;
+    border:5px solid #ccd0d6;
     border:none;
-    border-left:5px solid #a1ce4b;
+    border-left:5px solid #1793d0;
     padding:0;
     border-radius:0;
 }
@@ -518,7 +518,7 @@ font-size:9.5pt;
 }
 
 .calendar-day-base:hover,.calendar-day-base:focus {
-background-color:#1793d0; 
+background-color:#1793d0;
 color:#fff;
 }
 
@@ -753,7 +753,7 @@ border-radius:3px;
 background:#e6e8eb;
 color:#31363d;
 font-size:1.1em;
-padding:8px 4px; 
+padding:8px 4px;
 }
 
 StEntry:focus {
@@ -1023,4 +1023,3 @@ border-radius:0 3px 3px 0;
 .candidate-page-button-icon {
 icon-size:1em;
 }
-
