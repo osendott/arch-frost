@@ -2,9 +2,13 @@ This Repository is depricated, please visit the repo for arch-frost-gtk, arch-fr
 in order to find the most recent version. you can also find my themes in the AUR, just search for arch-frost
 (yaourt arch-frost) I will post links to the proper repos below:
 
+
 Arch-Frost (light) https://github.com/osendott/arch-frost-gtk
+
 Arch-Frost (dark)  https://github.com/osendott/arch-frost-gtk-dark
+
 Arch-Frost (shell) https://github.com/osendott/arch-frost-shell
+
 
 Thank you for your interest, and again, please check the above repo's for the most
 recent version of the Arch Frost theme.
