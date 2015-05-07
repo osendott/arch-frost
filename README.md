@@ -21,7 +21,7 @@ recent version of the Arch Frost theme.
 http://osendott.github.io/arch-frost/
 
 Numix-Frost theme customized with Arch in mind, with custom gnome-shell theme to match.
-If you're using an Arch-based distro and don't care for the "A" logo at the top, open /usr/share/themes/arch-frost-shell/gnome-shell/assets folder and replace overview.svg with overview.old 
+If you're not using an Arch-based distro or don't care for the "A" logo at the top, open /usr/share/themes/arch-frost-shell/gnome-shell/assets folder and replace overview.svg with overview.old 
 and hit ALT+F2, R, and <ENTER>.
 
 If you're reading this on GitHub, and are using an Arch based distro, open a terminal and type:
